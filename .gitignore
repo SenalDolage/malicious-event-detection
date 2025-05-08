@@ -1,0 +1,5 @@
+.RData
+.RDataTmp
+.Rhistory
+*.pdf
+HealthCareData_2024.csv
