@@ -64,4 +64,4 @@ The raw data and detailed report of this assignment is excluded due to privacy c
 This project is for educational purposes only and is not licensed for commercial use.
 
 ## Acknowledgments:
-- The data used in this assignment is fictional and was provided for the purpose of this project.
+The data used in this assignment is fictional and was provided for the purpose of this project.
